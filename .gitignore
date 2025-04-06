@@ -1,0 +1,29 @@
+# Ignore Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore build output
+Debug/
+Release/
+*.obj
+*.exe
+*.pdb
+*.idb
+*.ipch
+*.aps
+*.ncb
+*.ilk
+*.log
+*.tlog
+*.lastbuildstate
+
+# Ignore other temp files
+*.tmp
+*.cache
+*.bak
+
+
+}

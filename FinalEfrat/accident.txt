@@ -1,0 +1,12 @@
+accident location - kokololopopo
+Date of accident - 12/2/2022
+brand - bmw
+name - momo
+license plate - 145236963
+problem type - 0
+date - 12/3/2020
+brand - bmw
+name - yuyu
+license plate - 147147147
+problem type - 0
+date - 19/2/2018
