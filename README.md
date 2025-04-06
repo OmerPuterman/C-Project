@@ -1,4 +1,4 @@
-# FinalEfrat - Year 2 C Project
+# Final Project C - Year 2 C Project
 
 This repository contains a C programming project developed during the second year of university as part of our coursework. The project was created using Visual Studio and focuses on fundamental concepts of C programming, data structures, and application logic.
 
